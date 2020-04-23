@@ -1,0 +1,52 @@
+.divbg{
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg1{
+	background-image: url(../img/img_bg_1.jpg);
+}
+.bg2{
+	background-image: url(../img/img_bg_2.jpg);
+}
+.bg3{
+	background-image: url(../img/np1.jpg);
+}
+.bg4{
+	background-image: url(../img/np2.jpg);
+}
+.bg5{
+	background-image: url(../img/np3.jpg);
+}
+.bg6{
+	background-image: url(../img/np4.jpg);
+}
+
+.container {
+    padding: 60px 70px;
+}
+
+.g{
+	color: green;
+}
+
+.w{
+	color: white;
+}
+
+.active{
+	color: white;
+}
+
+.rev_bg{
+	background-color: white;
+	border-radius: 20px;
+	padding: 30px;
+	border-color: white;
+}
+
+.r{
+	color: #dd614a;
+}
